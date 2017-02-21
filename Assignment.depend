@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487396758 source:/home/andrew/C++/Assignment/main.cpp
+	<iostream>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+
